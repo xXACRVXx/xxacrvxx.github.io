@@ -1,10 +1,7 @@
-## BIENVENIDO A MI  GitHub PAGES
+## BIENVENIDO A MI PAGINA DE GITHUB
 
-You can use the [editor on GitHub](https://github.com/xXACRVXx/xxacrvxx.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Esta es mi primera prueba con github pages para aprender su fincionamiento y sintaxis basica
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### En que acabara esta pagina?
+Aun no lo se aunque lo mas probable es que solo la deje como un experimento
 
